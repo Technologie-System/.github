@@ -1,16 +1,24 @@
+![Logo](https://raw.githubusercontent.com/Technologie-System/.github/master/New%20LOGO%20-%20SMALL.png)
 
+# We developing some projects:
 
-![Logo](https://raw.githubusercontent.com/Technologie-System/.github/master/New%20LOGO.png)
-We developing some projects :
+## In development: 
+[![MS](https://raw.githubusercontent.com/Technologie-System/Mesa-Security/master/Mesa%20Security%20-%20SMALL.png "Mesa Security, it's writed")](https://github.com/Technologie-System/Mesa-Security)
 
-***
+[![MS](https://raw.githubusercontent.com/Technologie-System/Nuclearium/master/Nuclearium%20Logo%20-%20Small.png "BOOM!!")](https://github.com/Technologie-System/Nuclearium)
 
-#### In development: 
-[![MS](https://raw.githubusercontent.com/Technologie-System/Mesa-Security/master/Mesa%20Security.png "Mesa Security, it's writed")](https://github.com/Technologie-System/Mesa-Security)
+## Finish:
+#### *French & Abandoned*
 
-[![MS](https://raw.githubusercontent.com/Technologie-System/Mesa-Security/master/Mesa%20Security.png "Mesa Security, it's writed")](https://github.com/Technologie-System/Mesa-Security)
+[![MS](https://raw.githubusercontent.com/Technologie-System/Raccourci/master/Raccourci.png "It already exists in fact")](https://github.com/Technologie-System/Raccourci)
 
-***
+# Members:
+[![MS](https://raw.githubusercontent.com/Thibault-Savenkoff/Thibault-Savenkoff/main/Profile%20-%20SMALL.png "Duke Trace Legacy - TwoKinds")](https://github.com/Thibault-Savenkoff)
 
-#### Finish:
-[Raccourci]
+### Director
+
+&
+
+### [Son of Pala]
+
+[Son of Pala]: https://github.com/SonofPala
