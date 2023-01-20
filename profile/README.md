@@ -1,5 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/Technologie-System/.github/master/New%20LOGO%20-%20SMALL.png "I love this logo")
 
+# All projects are suspended because my PC is broken.
+
 # We developing some projects:
 
 ## In development: 
