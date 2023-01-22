@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/Technologie-System/.github/master/New%20LOGO%20-%20SMALL.png "I love this logo")
 
-# All projects are suspended because my PC is broken.
+# Some projects are stopped because my PC is dead: [Detail]
 
 # We developing some projects:
 
@@ -24,3 +24,4 @@
 ### [Son of Pala]
 
 [Son of Pala]: https://github.com/SonofPala
+[Detail]: https://github.com/Technologie-System/Mesa-Security/blob/master/PROBLEM.md
