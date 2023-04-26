@@ -4,10 +4,8 @@
 
 # We developing some projects:
 
-## In development: 
-[![MS](https://raw.githubusercontent.com/Technologie-System/Mesa-Security/Images/Mesa%20Security%20-%20SMALL.png "Mesa Security, it's writed")](https://github.com/Technologie-System/Mesa-Security)
-
 ## Suspended:
+[![MS](https://raw.githubusercontent.com/Technologie-System/Mesa-Security/Images/Mesa%20Security%20-%20SMALL.png "Mesa Security, it's writed")](https://github.com/Technologie-System/Mesa-Security)
 
 [![MS](https://raw.githubusercontent.com/Technologie-System/Nuclearium/master/Nuclearium%20Logo%20-%20Small.png "BOOM!!")](https://github.com/Technologie-System/Nuclearium)
 
